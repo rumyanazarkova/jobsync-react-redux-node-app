@@ -7,7 +7,7 @@ Tools used:
 - **MongoDB/Mongoose** for database
 
 
-You can check out the project [HERE]()
+You can check out the project [HERE](https://jobsync-app.onrender.com/landing)
 
 ```
 npm install
